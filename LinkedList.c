@@ -51,6 +51,7 @@ int main(void)
             free(str);
         }
     }
+    printf("\n");
 
     return EXIT_SUCCESS;
 }
